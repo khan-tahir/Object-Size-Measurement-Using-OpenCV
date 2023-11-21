@@ -2,7 +2,7 @@
 
 ## Overview
 
-Welcome to the Object Size Measurement! This Python-based tool utilizes OpenCV for real-time measurement of object sizes captured by your camera. It's a versatile solution with potential applications in various industries.
+Welcome to the Object Size Measurement! This Python-based tool utilizes OpenCV for real-time measurement of object sizes captured by your camera. It's a versatile solution with potential applications in various industries and leveraging the power of computer vision to accurately assess and quantify object dimensions..
 
 ## 🚀 Features
 
